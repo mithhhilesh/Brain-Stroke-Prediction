@@ -164,4 +164,4 @@ Suggestions and improvements are welcome. Open an [issue](https://github.com/mit
 
 ## Author
 
-Created by [Mithhhilesh](https://github.com/mithhhilesh).
+Created by [Mithhhilesh](https://github.com/mithhhilesh) & [captivatingfr](https://github.com/captivatingfr).
